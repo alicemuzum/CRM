@@ -1,0 +1,1 @@
+001- showSelected fonksiyonu içindeki save_changed_list listesi işlem yapılmak istenilen anda boş değildir.
